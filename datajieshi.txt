@@ -1,0 +1,10 @@
+id	  
+code	股票代码
+name	股票名称
+illegal	违法所得
+news_date0	信息形成时间
+news_date1	信息公告日期
+buynum		购买数量
+buymoney	购买金额
+buydate		购买日期		0分批	
+selldate		卖出日期		0复牌卖出
