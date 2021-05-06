@@ -4,8 +4,9 @@
 
 ### - data - 数据
 ####  --- 最终数据集：code - dataset0
-####  --- 时序数据集：code - dataset_time2
-### - code - 脚本代码
+
+### - code - 
+####  --- 时序数据集：data - dataset_time.xlsx
 # 
 
 ##  GBDT详细推导
