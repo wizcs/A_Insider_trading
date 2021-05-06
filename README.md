@@ -1,25 +1,11 @@
 # 一篇关于A股内幕交易的本科毕业论文
 
-### 目前更新主要为数据项
+武晓东 - 2021
 
-    
-    /data/databg 与datahand（手打数据）
-    此文件为筛选出违法所得100万以上的文书信息摘要：   
-    id  
-    code	股票代码  
-    name	股票名称  
-    illegal	违法所得  
-    news_date0	内幕信息形成日期  
-    news_date1	内幕信息公告日期  
-    symbol     股票代码
-    area       股票区域
-    industry     股票行业
-    list_date    上市日期
+### - data - 数据
+####  --- 最终数据集：code - dataset0
+####  --- 时序数据集：code - dataset_time2
+### - code - 脚本代码
+# 
 
-    以下已废用
-    buynum		购买数量~~   
-    buymoney	购买金额  
-    buydate		购买日期		0分批	  
-    selldate		卖出日期		0复牌卖出  
-
-### 我都干嘛了，三月开始重新写！
+##  GBDT详细推导
